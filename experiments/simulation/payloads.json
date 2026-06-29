@@ -1,0 +1,3500 @@
+{
+	"meta":	{
+		"location":	"Belém, PA",
+		"latitude":	-1.4411248,
+		"longitude":	-48.488922,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	24.8
+}
+{
+	"meta":	{
+		"location":	"Belém, PA",
+		"latitude":	-1.4411248,
+		"longitude":	-48.488922,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	30
+}
+{
+	"meta":	{
+		"location":	"Belém, PA",
+		"latitude":	-1.4411248,
+		"longitude":	-48.488922,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	95
+}
+{
+	"meta":	{
+		"location":	"Belém, PA",
+		"latitude":	-1.4411248,
+		"longitude":	-48.488922,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0.3
+}
+{
+	"meta":	{
+		"location":	"Belém, PA",
+		"latitude":	-1.4411248,
+		"longitude":	-48.488922,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0.3
+}
+{
+	"meta":	{
+		"location":	"Belém, PA",
+		"latitude":	-1.4411248,
+		"longitude":	-48.488922,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Belém, PA",
+		"latitude":	-1.4411248,
+		"longitude":	-48.488922,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	6.2
+}
+{
+	"meta":	{
+		"location":	"Belém, PA",
+		"latitude":	-1.4411248,
+		"longitude":	-48.488922,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	16.6
+}
+{
+	"meta":	{
+		"location":	"Belém, PA",
+		"latitude":	-1.4411248,
+		"longitude":	-48.488922,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"Belém, PA",
+		"latitude":	-1.4411248,
+		"longitude":	-48.488922,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	51
+}
+{
+	"meta":	{
+		"location":	"Boa Vista, RR",
+		"latitude":	2.8471,
+		"longitude":	-60.69934,
+		"elevation":	83,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	26.6
+}
+{
+	"meta":	{
+		"location":	"Boa Vista, RR",
+		"latitude":	2.8471,
+		"longitude":	-60.69934,
+		"elevation":	83,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	32.8
+}
+{
+	"meta":	{
+		"location":	"Boa Vista, RR",
+		"latitude":	2.8471,
+		"longitude":	-60.69934,
+		"elevation":	83,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	88
+}
+{
+	"meta":	{
+		"location":	"Boa Vista, RR",
+		"latitude":	2.8471,
+		"longitude":	-60.69934,
+		"elevation":	83,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Boa Vista, RR",
+		"latitude":	2.8471,
+		"longitude":	-60.69934,
+		"elevation":	83,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Boa Vista, RR",
+		"latitude":	2.8471,
+		"longitude":	-60.69934,
+		"elevation":	83,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Boa Vista, RR",
+		"latitude":	2.8471,
+		"longitude":	-60.69934,
+		"elevation":	83,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	1.8
+}
+{
+	"meta":	{
+		"location":	"Boa Vista, RR",
+		"latitude":	2.8471,
+		"longitude":	-60.69934,
+		"elevation":	83,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	25.9
+}
+{
+	"meta":	{
+		"location":	"Boa Vista, RR",
+		"latitude":	2.8471,
+		"longitude":	-60.69934,
+		"elevation":	83,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"Boa Vista, RR",
+		"latitude":	2.8471,
+		"longitude":	-60.69934,
+		"elevation":	83,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	3
+}
+{
+	"meta":	{
+		"location":	"Manaus, AM",
+		"latitude":	-3.1282952,
+		"longitude":	-60.0242,
+		"elevation":	47,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	25.8
+}
+{
+	"meta":	{
+		"location":	"Manaus, AM",
+		"latitude":	-3.1282952,
+		"longitude":	-60.0242,
+		"elevation":	47,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	31
+}
+{
+	"meta":	{
+		"location":	"Manaus, AM",
+		"latitude":	-3.1282952,
+		"longitude":	-60.0242,
+		"elevation":	47,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	93
+}
+{
+	"meta":	{
+		"location":	"Manaus, AM",
+		"latitude":	-3.1282952,
+		"longitude":	-60.0242,
+		"elevation":	47,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0.1
+}
+{
+	"meta":	{
+		"location":	"Manaus, AM",
+		"latitude":	-3.1282952,
+		"longitude":	-60.0242,
+		"elevation":	47,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0.1
+}
+{
+	"meta":	{
+		"location":	"Manaus, AM",
+		"latitude":	-3.1282952,
+		"longitude":	-60.0242,
+		"elevation":	47,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Manaus, AM",
+		"latitude":	-3.1282952,
+		"longitude":	-60.0242,
+		"elevation":	47,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	8.5
+}
+{
+	"meta":	{
+		"location":	"Manaus, AM",
+		"latitude":	-3.1282952,
+		"longitude":	-60.0242,
+		"elevation":	47,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	13.3
+}
+{
+	"meta":	{
+		"location":	"Manaus, AM",
+		"latitude":	-3.1282952,
+		"longitude":	-60.0242,
+		"elevation":	47,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"Manaus, AM",
+		"latitude":	-3.1282952,
+		"longitude":	-60.0242,
+		"elevation":	47,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	51
+}
+{
+	"meta":	{
+		"location":	"Porto Velho, RO",
+		"latitude":	-8.752196,
+		"longitude":	-63.93106,
+		"elevation":	90,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	26.1
+}
+{
+	"meta":	{
+		"location":	"Porto Velho, RO",
+		"latitude":	-8.752196,
+		"longitude":	-63.93106,
+		"elevation":	90,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	32.3
+}
+{
+	"meta":	{
+		"location":	"Porto Velho, RO",
+		"latitude":	-8.752196,
+		"longitude":	-63.93106,
+		"elevation":	90,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	93
+}
+{
+	"meta":	{
+		"location":	"Porto Velho, RO",
+		"latitude":	-8.752196,
+		"longitude":	-63.93106,
+		"elevation":	90,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Porto Velho, RO",
+		"latitude":	-8.752196,
+		"longitude":	-63.93106,
+		"elevation":	90,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Porto Velho, RO",
+		"latitude":	-8.752196,
+		"longitude":	-63.93106,
+		"elevation":	90,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Porto Velho, RO",
+		"latitude":	-8.752196,
+		"longitude":	-63.93106,
+		"elevation":	90,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	4
+}
+{
+	"meta":	{
+		"location":	"Porto Velho, RO",
+		"latitude":	-8.752196,
+		"longitude":	-63.93106,
+		"elevation":	90,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	17.3
+}
+{
+	"meta":	{
+		"location":	"Porto Velho, RO",
+		"latitude":	-8.752196,
+		"longitude":	-63.93106,
+		"elevation":	90,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"Porto Velho, RO",
+		"latitude":	-8.752196,
+		"longitude":	-63.93106,
+		"elevation":	90,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	3
+}
+{
+	"meta":	{
+		"location":	"Rio Branco, AC",
+		"latitude":	-9.947275,
+		"longitude":	-67.79529,
+		"elevation":	150,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	26.2
+}
+{
+	"meta":	{
+		"location":	"Rio Branco, AC",
+		"latitude":	-9.947275,
+		"longitude":	-67.79529,
+		"elevation":	150,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	32.6
+}
+{
+	"meta":	{
+		"location":	"Rio Branco, AC",
+		"latitude":	-9.947275,
+		"longitude":	-67.79529,
+		"elevation":	150,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	91
+}
+{
+	"meta":	{
+		"location":	"Rio Branco, AC",
+		"latitude":	-9.947275,
+		"longitude":	-67.79529,
+		"elevation":	150,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Rio Branco, AC",
+		"latitude":	-9.947275,
+		"longitude":	-67.79529,
+		"elevation":	150,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Rio Branco, AC",
+		"latitude":	-9.947275,
+		"longitude":	-67.79529,
+		"elevation":	150,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Rio Branco, AC",
+		"latitude":	-9.947275,
+		"longitude":	-67.79529,
+		"elevation":	150,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	0.6
+}
+{
+	"meta":	{
+		"location":	"Rio Branco, AC",
+		"latitude":	-9.947275,
+		"longitude":	-67.79529,
+		"elevation":	150,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	1.8
+}
+{
+	"meta":	{
+		"location":	"Rio Branco, AC",
+		"latitude":	-9.947275,
+		"longitude":	-67.79529,
+		"elevation":	150,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"Rio Branco, AC",
+		"latitude":	-9.947275,
+		"longitude":	-67.79529,
+		"elevation":	150,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	3
+}
+{
+	"meta":	{
+		"location":	"Palmas, TO",
+		"latitude":	-10.228471,
+		"longitude":	-48.358215,
+		"elevation":	272,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	26.8
+}
+{
+	"meta":	{
+		"location":	"Palmas, TO",
+		"latitude":	-10.228471,
+		"longitude":	-48.358215,
+		"elevation":	272,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	31.6
+}
+{
+	"meta":	{
+		"location":	"Palmas, TO",
+		"latitude":	-10.228471,
+		"longitude":	-48.358215,
+		"elevation":	272,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	79
+}
+{
+	"meta":	{
+		"location":	"Palmas, TO",
+		"latitude":	-10.228471,
+		"longitude":	-48.358215,
+		"elevation":	272,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Palmas, TO",
+		"latitude":	-10.228471,
+		"longitude":	-48.358215,
+		"elevation":	272,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Palmas, TO",
+		"latitude":	-10.228471,
+		"longitude":	-48.358215,
+		"elevation":	272,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Palmas, TO",
+		"latitude":	-10.228471,
+		"longitude":	-48.358215,
+		"elevation":	272,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	3.9
+}
+{
+	"meta":	{
+		"location":	"Palmas, TO",
+		"latitude":	-10.228471,
+		"longitude":	-48.358215,
+		"elevation":	272,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	2.9
+}
+{
+	"meta":	{
+		"location":	"Palmas, TO",
+		"latitude":	-10.228471,
+		"longitude":	-48.358215,
+		"elevation":	272,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	98
+}
+{
+	"meta":	{
+		"location":	"Palmas, TO",
+		"latitude":	-10.228471,
+		"longitude":	-48.358215,
+		"elevation":	272,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	3
+}
+{
+	"meta":	{
+		"location":	"Aracaju, SE",
+		"latitude":	-10.931458,
+		"longitude":	-37.068207,
+		"elevation":	11,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	26.6
+}
+{
+	"meta":	{
+		"location":	"Aracaju, SE",
+		"latitude":	-10.931458,
+		"longitude":	-37.068207,
+		"elevation":	11,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	30.4
+}
+{
+	"meta":	{
+		"location":	"Aracaju, SE",
+		"latitude":	-10.931458,
+		"longitude":	-37.068207,
+		"elevation":	11,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	78
+}
+{
+	"meta":	{
+		"location":	"Aracaju, SE",
+		"latitude":	-10.931458,
+		"longitude":	-37.068207,
+		"elevation":	11,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Aracaju, SE",
+		"latitude":	-10.931458,
+		"longitude":	-37.068207,
+		"elevation":	11,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Aracaju, SE",
+		"latitude":	-10.931458,
+		"longitude":	-37.068207,
+		"elevation":	11,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Aracaju, SE",
+		"latitude":	-10.931458,
+		"longitude":	-37.068207,
+		"elevation":	11,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	10.1
+}
+{
+	"meta":	{
+		"location":	"Aracaju, SE",
+		"latitude":	-10.931458,
+		"longitude":	-37.068207,
+		"elevation":	11,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	5.4
+}
+{
+	"meta":	{
+		"location":	"Aracaju, SE",
+		"latitude":	-10.931458,
+		"longitude":	-37.068207,
+		"elevation":	11,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"Aracaju, SE",
+		"latitude":	-10.931458,
+		"longitude":	-37.068207,
+		"elevation":	11,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	3
+}
+{
+	"meta":	{
+		"location":	"Fortaleza, CE",
+		"latitude":	-3.7609842,
+		"longitude":	-38.529663,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	25.5
+}
+{
+	"meta":	{
+		"location":	"Fortaleza, CE",
+		"latitude":	-3.7609842,
+		"longitude":	-38.529663,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	30.4
+}
+{
+	"meta":	{
+		"location":	"Fortaleza, CE",
+		"latitude":	-3.7609842,
+		"longitude":	-38.529663,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	91
+}
+{
+	"meta":	{
+		"location":	"Fortaleza, CE",
+		"latitude":	-3.7609842,
+		"longitude":	-38.529663,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0.2
+}
+{
+	"meta":	{
+		"location":	"Fortaleza, CE",
+		"latitude":	-3.7609842,
+		"longitude":	-38.529663,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0.2
+}
+{
+	"meta":	{
+		"location":	"Fortaleza, CE",
+		"latitude":	-3.7609842,
+		"longitude":	-38.529663,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Fortaleza, CE",
+		"latitude":	-3.7609842,
+		"longitude":	-38.529663,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	8
+}
+{
+	"meta":	{
+		"location":	"Fortaleza, CE",
+		"latitude":	-3.7609842,
+		"longitude":	-38.529663,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	13
+}
+{
+	"meta":	{
+		"location":	"Fortaleza, CE",
+		"latitude":	-3.7609842,
+		"longitude":	-38.529663,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"Fortaleza, CE",
+		"latitude":	-3.7609842,
+		"longitude":	-38.529663,
+		"elevation":	14,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	51
+}
+{
+	"meta":	{
+		"location":	"João Pessoa, PB",
+		"latitude":	-7.135325,
+		"longitude":	-34.843628,
+		"elevation":	38,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	24.5
+}
+{
+	"meta":	{
+		"location":	"João Pessoa, PB",
+		"latitude":	-7.135325,
+		"longitude":	-34.843628,
+		"elevation":	38,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	28.2
+}
+{
+	"meta":	{
+		"location":	"João Pessoa, PB",
+		"latitude":	-7.135325,
+		"longitude":	-34.843628,
+		"elevation":	38,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	94
+}
+{
+	"meta":	{
+		"location":	"João Pessoa, PB",
+		"latitude":	-7.135325,
+		"longitude":	-34.843628,
+		"elevation":	38,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0.6
+}
+{
+	"meta":	{
+		"location":	"João Pessoa, PB",
+		"latitude":	-7.135325,
+		"longitude":	-34.843628,
+		"elevation":	38,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0.3
+}
+{
+	"meta":	{
+		"location":	"João Pessoa, PB",
+		"latitude":	-7.135325,
+		"longitude":	-34.843628,
+		"elevation":	38,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"João Pessoa, PB",
+		"latitude":	-7.135325,
+		"longitude":	-34.843628,
+		"elevation":	38,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	13.9
+}
+{
+	"meta":	{
+		"location":	"João Pessoa, PB",
+		"latitude":	-7.135325,
+		"longitude":	-34.843628,
+		"elevation":	38,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	7.9
+}
+{
+	"meta":	{
+		"location":	"João Pessoa, PB",
+		"latitude":	-7.135325,
+		"longitude":	-34.843628,
+		"elevation":	38,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"João Pessoa, PB",
+		"latitude":	-7.135325,
+		"longitude":	-34.843628,
+		"elevation":	38,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	53
+}
+{
+	"meta":	{
+		"location":	"Natal, RN",
+		"latitude":	-5.7996483,
+		"longitude":	-35.266235,
+		"elevation":	36,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	24
+}
+{
+	"meta":	{
+		"location":	"Natal, RN",
+		"latitude":	-5.7996483,
+		"longitude":	-35.266235,
+		"elevation":	36,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	28.3
+}
+{
+	"meta":	{
+		"location":	"Natal, RN",
+		"latitude":	-5.7996483,
+		"longitude":	-35.266235,
+		"elevation":	36,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	95
+}
+{
+	"meta":	{
+		"location":	"Natal, RN",
+		"latitude":	-5.7996483,
+		"longitude":	-35.266235,
+		"elevation":	36,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0.1
+}
+{
+	"meta":	{
+		"location":	"Natal, RN",
+		"latitude":	-5.7996483,
+		"longitude":	-35.266235,
+		"elevation":	36,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0.1
+}
+{
+	"meta":	{
+		"location":	"Natal, RN",
+		"latitude":	-5.7996483,
+		"longitude":	-35.266235,
+		"elevation":	36,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Natal, RN",
+		"latitude":	-5.7996483,
+		"longitude":	-35.266235,
+		"elevation":	36,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	8.4
+}
+{
+	"meta":	{
+		"location":	"Natal, RN",
+		"latitude":	-5.7996483,
+		"longitude":	-35.266235,
+		"elevation":	36,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	10.8
+}
+{
+	"meta":	{
+		"location":	"Natal, RN",
+		"latitude":	-5.7996483,
+		"longitude":	-35.266235,
+		"elevation":	36,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	98
+}
+{
+	"meta":	{
+		"location":	"Natal, RN",
+		"latitude":	-5.7996483,
+		"longitude":	-35.266235,
+		"elevation":	36,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	51
+}
+{
+	"meta":	{
+		"location":	"Recife, PE",
+		"latitude":	-8.049209,
+		"longitude":	-34.923065,
+		"elevation":	3,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	24.1
+}
+{
+	"meta":	{
+		"location":	"Recife, PE",
+		"latitude":	-8.049209,
+		"longitude":	-34.923065,
+		"elevation":	3,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	28.3
+}
+{
+	"meta":	{
+		"location":	"Recife, PE",
+		"latitude":	-8.049209,
+		"longitude":	-34.923065,
+		"elevation":	3,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	94
+}
+{
+	"meta":	{
+		"location":	"Recife, PE",
+		"latitude":	-8.049209,
+		"longitude":	-34.923065,
+		"elevation":	3,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0.1
+}
+{
+	"meta":	{
+		"location":	"Recife, PE",
+		"latitude":	-8.049209,
+		"longitude":	-34.923065,
+		"elevation":	3,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Recife, PE",
+		"latitude":	-8.049209,
+		"longitude":	-34.923065,
+		"elevation":	3,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Recife, PE",
+		"latitude":	-8.049209,
+		"longitude":	-34.923065,
+		"elevation":	3,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	8.9
+}
+{
+	"meta":	{
+		"location":	"Recife, PE",
+		"latitude":	-8.049209,
+		"longitude":	-34.923065,
+		"elevation":	3,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	9.4
+}
+{
+	"meta":	{
+		"location":	"Recife, PE",
+		"latitude":	-8.049209,
+		"longitude":	-34.923065,
+		"elevation":	3,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"Recife, PE",
+		"latitude":	-8.049209,
+		"longitude":	-34.923065,
+		"elevation":	3,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	51
+}
+{
+	"meta":	{
+		"location":	"Salvador, BA",
+		"latitude":	-12.970122,
+		"longitude":	-38.45456,
+		"elevation":	62,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	25.1
+}
+{
+	"meta":	{
+		"location":	"Salvador, BA",
+		"latitude":	-12.970122,
+		"longitude":	-38.45456,
+		"elevation":	62,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	28.3
+}
+{
+	"meta":	{
+		"location":	"Salvador, BA",
+		"latitude":	-12.970122,
+		"longitude":	-38.45456,
+		"elevation":	62,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	83
+}
+{
+	"meta":	{
+		"location":	"Salvador, BA",
+		"latitude":	-12.970122,
+		"longitude":	-38.45456,
+		"elevation":	62,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0.1
+}
+{
+	"meta":	{
+		"location":	"Salvador, BA",
+		"latitude":	-12.970122,
+		"longitude":	-38.45456,
+		"elevation":	62,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Salvador, BA",
+		"latitude":	-12.970122,
+		"longitude":	-38.45456,
+		"elevation":	62,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Salvador, BA",
+		"latitude":	-12.970122,
+		"longitude":	-38.45456,
+		"elevation":	62,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	12.2
+}
+{
+	"meta":	{
+		"location":	"Salvador, BA",
+		"latitude":	-12.970122,
+		"longitude":	-38.45456,
+		"elevation":	62,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	18.4
+}
+{
+	"meta":	{
+		"location":	"Salvador, BA",
+		"latitude":	-12.970122,
+		"longitude":	-38.45456,
+		"elevation":	62,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	98
+}
+{
+	"meta":	{
+		"location":	"Salvador, BA",
+		"latitude":	-12.970122,
+		"longitude":	-38.45456,
+		"elevation":	62,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	51
+}
+{
+	"meta":	{
+		"location":	"São Luís, MA",
+		"latitude":	-2.565905,
+		"longitude":	-44.27884,
+		"elevation":	25,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	26.3
+}
+{
+	"meta":	{
+		"location":	"São Luís, MA",
+		"latitude":	-2.565905,
+		"longitude":	-44.27884,
+		"elevation":	25,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	31.4
+}
+{
+	"meta":	{
+		"location":	"São Luís, MA",
+		"latitude":	-2.565905,
+		"longitude":	-44.27884,
+		"elevation":	25,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	87
+}
+{
+	"meta":	{
+		"location":	"São Luís, MA",
+		"latitude":	-2.565905,
+		"longitude":	-44.27884,
+		"elevation":	25,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"São Luís, MA",
+		"latitude":	-2.565905,
+		"longitude":	-44.27884,
+		"elevation":	25,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"São Luís, MA",
+		"latitude":	-2.565905,
+		"longitude":	-44.27884,
+		"elevation":	25,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"São Luís, MA",
+		"latitude":	-2.565905,
+		"longitude":	-44.27884,
+		"elevation":	25,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	7.3
+}
+{
+	"meta":	{
+		"location":	"São Luís, MA",
+		"latitude":	-2.565905,
+		"longitude":	-44.27884,
+		"elevation":	25,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	20.9
+}
+{
+	"meta":	{
+		"location":	"São Luís, MA",
+		"latitude":	-2.565905,
+		"longitude":	-44.27884,
+		"elevation":	25,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"São Luís, MA",
+		"latitude":	-2.565905,
+		"longitude":	-44.27884,
+		"elevation":	25,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	3
+}
+{
+	"meta":	{
+		"location":	"Teresina, PI",
+		"latitude":	-5.0966606,
+		"longitude":	-42.772278,
+		"elevation":	88,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	26
+}
+{
+	"meta":	{
+		"location":	"Teresina, PI",
+		"latitude":	-5.0966606,
+		"longitude":	-42.772278,
+		"elevation":	88,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	31
+}
+{
+	"meta":	{
+		"location":	"Teresina, PI",
+		"latitude":	-5.0966606,
+		"longitude":	-42.772278,
+		"elevation":	88,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	89
+}
+{
+	"meta":	{
+		"location":	"Teresina, PI",
+		"latitude":	-5.0966606,
+		"longitude":	-42.772278,
+		"elevation":	88,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Teresina, PI",
+		"latitude":	-5.0966606,
+		"longitude":	-42.772278,
+		"elevation":	88,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Teresina, PI",
+		"latitude":	-5.0966606,
+		"longitude":	-42.772278,
+		"elevation":	88,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Teresina, PI",
+		"latitude":	-5.0966606,
+		"longitude":	-42.772278,
+		"elevation":	88,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	7.3
+}
+{
+	"meta":	{
+		"location":	"Teresina, PI",
+		"latitude":	-5.0966606,
+		"longitude":	-42.772278,
+		"elevation":	88,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	20.2
+}
+{
+	"meta":	{
+		"location":	"Teresina, PI",
+		"latitude":	-5.0966606,
+		"longitude":	-42.772278,
+		"elevation":	88,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"Teresina, PI",
+		"latitude":	-5.0966606,
+		"longitude":	-42.772278,
+		"elevation":	88,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	3
+}
+{
+	"meta":	{
+		"location":	"Brasília, DF",
+		"latitude":	-15.782073,
+		"longitude":	-47.88678,
+		"elevation":	1136,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	21.8
+}
+{
+	"meta":	{
+		"location":	"Brasília, DF",
+		"latitude":	-15.782073,
+		"longitude":	-47.88678,
+		"elevation":	1136,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	22.6
+}
+{
+	"meta":	{
+		"location":	"Brasília, DF",
+		"latitude":	-15.782073,
+		"longitude":	-47.88678,
+		"elevation":	1136,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	70
+}
+{
+	"meta":	{
+		"location":	"Brasília, DF",
+		"latitude":	-15.782073,
+		"longitude":	-47.88678,
+		"elevation":	1136,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Brasília, DF",
+		"latitude":	-15.782073,
+		"longitude":	-47.88678,
+		"elevation":	1136,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Brasília, DF",
+		"latitude":	-15.782073,
+		"longitude":	-47.88678,
+		"elevation":	1136,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Brasília, DF",
+		"latitude":	-15.782073,
+		"longitude":	-47.88678,
+		"elevation":	1136,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	8.7
+}
+{
+	"meta":	{
+		"location":	"Brasília, DF",
+		"latitude":	-15.782073,
+		"longitude":	-47.88678,
+		"elevation":	1136,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	18
+}
+{
+	"meta":	{
+		"location":	"Brasília, DF",
+		"latitude":	-15.782073,
+		"longitude":	-47.88678,
+		"elevation":	1136,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	34
+}
+{
+	"meta":	{
+		"location":	"Brasília, DF",
+		"latitude":	-15.782073,
+		"longitude":	-47.88678,
+		"elevation":	1136,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	1
+}
+{
+	"meta":	{
+		"location":	"Campo Grande, MS",
+		"latitude":	-20.492092,
+		"longitude":	-54.652557,
+		"elevation":	522,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	25.1
+}
+{
+	"meta":	{
+		"location":	"Campo Grande, MS",
+		"latitude":	-20.492092,
+		"longitude":	-54.652557,
+		"elevation":	522,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	28.1
+}
+{
+	"meta":	{
+		"location":	"Campo Grande, MS",
+		"latitude":	-20.492092,
+		"longitude":	-54.652557,
+		"elevation":	522,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	72
+}
+{
+	"meta":	{
+		"location":	"Campo Grande, MS",
+		"latitude":	-20.492092,
+		"longitude":	-54.652557,
+		"elevation":	522,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Campo Grande, MS",
+		"latitude":	-20.492092,
+		"longitude":	-54.652557,
+		"elevation":	522,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Campo Grande, MS",
+		"latitude":	-20.492092,
+		"longitude":	-54.652557,
+		"elevation":	522,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Campo Grande, MS",
+		"latitude":	-20.492092,
+		"longitude":	-54.652557,
+		"elevation":	522,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	5
+}
+{
+	"meta":	{
+		"location":	"Campo Grande, MS",
+		"latitude":	-20.492092,
+		"longitude":	-54.652557,
+		"elevation":	522,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	10.1
+}
+{
+	"meta":	{
+		"location":	"Campo Grande, MS",
+		"latitude":	-20.492092,
+		"longitude":	-54.652557,
+		"elevation":	522,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	5
+}
+{
+	"meta":	{
+		"location":	"Campo Grande, MS",
+		"latitude":	-20.492092,
+		"longitude":	-54.652557,
+		"elevation":	522,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Cuiabá, MT",
+		"latitude":	-15.641476,
+		"longitude":	-56.101685,
+		"elevation":	166,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	28
+}
+{
+	"meta":	{
+		"location":	"Cuiabá, MT",
+		"latitude":	-15.641476,
+		"longitude":	-56.101685,
+		"elevation":	166,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	31.7
+}
+{
+	"meta":	{
+		"location":	"Cuiabá, MT",
+		"latitude":	-15.641476,
+		"longitude":	-56.101685,
+		"elevation":	166,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	66
+}
+{
+	"meta":	{
+		"location":	"Cuiabá, MT",
+		"latitude":	-15.641476,
+		"longitude":	-56.101685,
+		"elevation":	166,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Cuiabá, MT",
+		"latitude":	-15.641476,
+		"longitude":	-56.101685,
+		"elevation":	166,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Cuiabá, MT",
+		"latitude":	-15.641476,
+		"longitude":	-56.101685,
+		"elevation":	166,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Cuiabá, MT",
+		"latitude":	-15.641476,
+		"longitude":	-56.101685,
+		"elevation":	166,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	5
+}
+{
+	"meta":	{
+		"location":	"Cuiabá, MT",
+		"latitude":	-15.641476,
+		"longitude":	-56.101685,
+		"elevation":	166,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	6.5
+}
+{
+	"meta":	{
+		"location":	"Cuiabá, MT",
+		"latitude":	-15.641476,
+		"longitude":	-56.101685,
+		"elevation":	166,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"Cuiabá, MT",
+		"latitude":	-15.641476,
+		"longitude":	-56.101685,
+		"elevation":	166,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	3
+}
+{
+	"meta":	{
+		"location":	"Goiânia, GO",
+		"latitude":	-16.69596,
+		"longitude":	-49.255005,
+		"elevation":	774,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	26.3
+}
+{
+	"meta":	{
+		"location":	"Goiânia, GO",
+		"latitude":	-16.69596,
+		"longitude":	-49.255005,
+		"elevation":	774,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	25.8
+}
+{
+	"meta":	{
+		"location":	"Goiânia, GO",
+		"latitude":	-16.69596,
+		"longitude":	-49.255005,
+		"elevation":	774,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	46
+}
+{
+	"meta":	{
+		"location":	"Goiânia, GO",
+		"latitude":	-16.69596,
+		"longitude":	-49.255005,
+		"elevation":	774,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Goiânia, GO",
+		"latitude":	-16.69596,
+		"longitude":	-49.255005,
+		"elevation":	774,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Goiânia, GO",
+		"latitude":	-16.69596,
+		"longitude":	-49.255005,
+		"elevation":	774,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Goiânia, GO",
+		"latitude":	-16.69596,
+		"longitude":	-49.255005,
+		"elevation":	774,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	11.7
+}
+{
+	"meta":	{
+		"location":	"Goiânia, GO",
+		"latitude":	-16.69596,
+		"longitude":	-49.255005,
+		"elevation":	774,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	11.5
+}
+{
+	"meta":	{
+		"location":	"Goiânia, GO",
+		"latitude":	-16.69596,
+		"longitude":	-49.255005,
+		"elevation":	774,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	78
+}
+{
+	"meta":	{
+		"location":	"Goiânia, GO",
+		"latitude":	-16.69596,
+		"longitude":	-49.255005,
+		"elevation":	774,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	2
+}
+{
+	"meta":	{
+		"location":	"Rio de Janeiro, RJ",
+		"latitude":	-22.952549,
+		"longitude":	-43.215027,
+		"elevation":	12,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	24.5
+}
+{
+	"meta":	{
+		"location":	"Rio de Janeiro, RJ",
+		"latitude":	-22.952549,
+		"longitude":	-43.215027,
+		"elevation":	12,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	28.9
+}
+{
+	"meta":	{
+		"location":	"Rio de Janeiro, RJ",
+		"latitude":	-22.952549,
+		"longitude":	-43.215027,
+		"elevation":	12,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	92
+}
+{
+	"meta":	{
+		"location":	"Rio de Janeiro, RJ",
+		"latitude":	-22.952549,
+		"longitude":	-43.215027,
+		"elevation":	12,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0.1
+}
+{
+	"meta":	{
+		"location":	"Rio de Janeiro, RJ",
+		"latitude":	-22.952549,
+		"longitude":	-43.215027,
+		"elevation":	12,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0.1
+}
+{
+	"meta":	{
+		"location":	"Rio de Janeiro, RJ",
+		"latitude":	-22.952549,
+		"longitude":	-43.215027,
+		"elevation":	12,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Rio de Janeiro, RJ",
+		"latitude":	-22.952549,
+		"longitude":	-43.215027,
+		"elevation":	12,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	8
+}
+{
+	"meta":	{
+		"location":	"Rio de Janeiro, RJ",
+		"latitude":	-22.952549,
+		"longitude":	-43.215027,
+		"elevation":	12,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	10.4
+}
+{
+	"meta":	{
+		"location":	"Rio de Janeiro, RJ",
+		"latitude":	-22.952549,
+		"longitude":	-43.215027,
+		"elevation":	12,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	91
+}
+{
+	"meta":	{
+		"location":	"Rio de Janeiro, RJ",
+		"latitude":	-22.952549,
+		"longitude":	-43.215027,
+		"elevation":	12,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	51
+}
+{
+	"meta":	{
+		"location":	"São Paulo, SP",
+		"latitude":	-23.514938,
+		"longitude":	-46.610504,
+		"elevation":	758,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	22.4
+}
+{
+	"meta":	{
+		"location":	"São Paulo, SP",
+		"latitude":	-23.514938,
+		"longitude":	-46.610504,
+		"elevation":	758,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	25
+}
+{
+	"meta":	{
+		"location":	"São Paulo, SP",
+		"latitude":	-23.514938,
+		"longitude":	-46.610504,
+		"elevation":	758,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	82
+}
+{
+	"meta":	{
+		"location":	"São Paulo, SP",
+		"latitude":	-23.514938,
+		"longitude":	-46.610504,
+		"elevation":	758,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"São Paulo, SP",
+		"latitude":	-23.514938,
+		"longitude":	-46.610504,
+		"elevation":	758,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"São Paulo, SP",
+		"latitude":	-23.514938,
+		"longitude":	-46.610504,
+		"elevation":	758,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"São Paulo, SP",
+		"latitude":	-23.514938,
+		"longitude":	-46.610504,
+		"elevation":	758,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	5.8
+}
+{
+	"meta":	{
+		"location":	"São Paulo, SP",
+		"latitude":	-23.514938,
+		"longitude":	-46.610504,
+		"elevation":	758,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	18
+}
+{
+	"meta":	{
+		"location":	"São Paulo, SP",
+		"latitude":	-23.514938,
+		"longitude":	-46.610504,
+		"elevation":	758,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	98
+}
+{
+	"meta":	{
+		"location":	"São Paulo, SP",
+		"latitude":	-23.514938,
+		"longitude":	-46.610504,
+		"elevation":	758,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	3
+}
+{
+	"meta":	{
+		"location":	"Vitória, ES",
+		"latitude":	-20.281195,
+		"longitude":	-40.30121,
+		"elevation":	6,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	24.5
+}
+{
+	"meta":	{
+		"location":	"Vitória, ES",
+		"latitude":	-20.281195,
+		"longitude":	-40.30121,
+		"elevation":	6,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	29.7
+}
+{
+	"meta":	{
+		"location":	"Vitória, ES",
+		"latitude":	-20.281195,
+		"longitude":	-40.30121,
+		"elevation":	6,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	89
+}
+{
+	"meta":	{
+		"location":	"Vitória, ES",
+		"latitude":	-20.281195,
+		"longitude":	-40.30121,
+		"elevation":	6,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0.1
+}
+{
+	"meta":	{
+		"location":	"Vitória, ES",
+		"latitude":	-20.281195,
+		"longitude":	-40.30121,
+		"elevation":	6,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Vitória, ES",
+		"latitude":	-20.281195,
+		"longitude":	-40.30121,
+		"elevation":	6,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Vitória, ES",
+		"latitude":	-20.281195,
+		"longitude":	-40.30121,
+		"elevation":	6,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	0.7
+}
+{
+	"meta":	{
+		"location":	"Vitória, ES",
+		"latitude":	-20.281195,
+		"longitude":	-40.30121,
+		"elevation":	6,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	4.7
+}
+{
+	"meta":	{
+		"location":	"Vitória, ES",
+		"latitude":	-20.281195,
+		"longitude":	-40.30121,
+		"elevation":	6,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	98
+}
+{
+	"meta":	{
+		"location":	"Vitória, ES",
+		"latitude":	-20.281195,
+		"longitude":	-40.30121,
+		"elevation":	6,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	51
+}
+{
+	"meta":	{
+		"location":	"Curitiba, PR",
+		"latitude":	-25.413006,
+		"longitude":	-49.241608,
+		"elevation":	920,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	19.2
+}
+{
+	"meta":	{
+		"location":	"Curitiba, PR",
+		"latitude":	-25.413006,
+		"longitude":	-49.241608,
+		"elevation":	920,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	20.8
+}
+{
+	"meta":	{
+		"location":	"Curitiba, PR",
+		"latitude":	-25.413006,
+		"longitude":	-49.241608,
+		"elevation":	920,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	87
+}
+{
+	"meta":	{
+		"location":	"Curitiba, PR",
+		"latitude":	-25.413006,
+		"longitude":	-49.241608,
+		"elevation":	920,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Curitiba, PR",
+		"latitude":	-25.413006,
+		"longitude":	-49.241608,
+		"elevation":	920,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Curitiba, PR",
+		"latitude":	-25.413006,
+		"longitude":	-49.241608,
+		"elevation":	920,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Curitiba, PR",
+		"latitude":	-25.413006,
+		"longitude":	-49.241608,
+		"elevation":	920,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	6.2
+}
+{
+	"meta":	{
+		"location":	"Curitiba, PR",
+		"latitude":	-25.413006,
+		"longitude":	-49.241608,
+		"elevation":	920,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	6.5
+}
+{
+	"meta":	{
+		"location":	"Curitiba, PR",
+		"latitude":	-25.413006,
+		"longitude":	-49.241608,
+		"elevation":	920,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"Curitiba, PR",
+		"latitude":	-25.413006,
+		"longitude":	-49.241608,
+		"elevation":	920,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	3
+}
+{
+	"meta":	{
+		"location":	"Florianópolis, SC",
+		"latitude":	-27.592268,
+		"longitude":	-48.531403,
+		"elevation":	23,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	22
+}
+{
+	"meta":	{
+		"location":	"Florianópolis, SC",
+		"latitude":	-27.592268,
+		"longitude":	-48.531403,
+		"elevation":	23,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	24.1
+}
+{
+	"meta":	{
+		"location":	"Florianópolis, SC",
+		"latitude":	-27.592268,
+		"longitude":	-48.531403,
+		"elevation":	23,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	91
+}
+{
+	"meta":	{
+		"location":	"Florianópolis, SC",
+		"latitude":	-27.592268,
+		"longitude":	-48.531403,
+		"elevation":	23,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Florianópolis, SC",
+		"latitude":	-27.592268,
+		"longitude":	-48.531403,
+		"elevation":	23,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Florianópolis, SC",
+		"latitude":	-27.592268,
+		"longitude":	-48.531403,
+		"elevation":	23,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Florianópolis, SC",
+		"latitude":	-27.592268,
+		"longitude":	-48.531403,
+		"elevation":	23,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	13.7
+}
+{
+	"meta":	{
+		"location":	"Florianópolis, SC",
+		"latitude":	-27.592268,
+		"longitude":	-48.531403,
+		"elevation":	23,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	18
+}
+{
+	"meta":	{
+		"location":	"Florianópolis, SC",
+		"latitude":	-27.592268,
+		"longitude":	-48.531403,
+		"elevation":	23,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	90
+}
+{
+	"meta":	{
+		"location":	"Florianópolis, SC",
+		"latitude":	-27.592268,
+		"longitude":	-48.531403,
+		"elevation":	23,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	3
+}
+{
+	"meta":	{
+		"location":	"Porto Alegre, RS",
+		"latitude":	-29.982426,
+		"longitude":	-51.188812,
+		"elevation":	15,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	18.8
+}
+{
+	"meta":	{
+		"location":	"Porto Alegre, RS",
+		"latitude":	-29.982426,
+		"longitude":	-51.188812,
+		"elevation":	15,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	19.5
+}
+{
+	"meta":	{
+		"location":	"Porto Alegre, RS",
+		"latitude":	-29.982426,
+		"longitude":	-51.188812,
+		"elevation":	15,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	93
+}
+{
+	"meta":	{
+		"location":	"Porto Alegre, RS",
+		"latitude":	-29.982426,
+		"longitude":	-51.188812,
+		"elevation":	15,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	7.5
+}
+{
+	"meta":	{
+		"location":	"Porto Alegre, RS",
+		"latitude":	-29.982426,
+		"longitude":	-51.188812,
+		"elevation":	15,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Porto Alegre, RS",
+		"latitude":	-29.982426,
+		"longitude":	-51.188812,
+		"elevation":	15,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Porto Alegre, RS",
+		"latitude":	-29.982426,
+		"longitude":	-51.188812,
+		"elevation":	15,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	14.4
+}
+{
+	"meta":	{
+		"location":	"Porto Alegre, RS",
+		"latitude":	-29.982426,
+		"longitude":	-51.188812,
+		"elevation":	15,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	16.9
+}
+{
+	"meta":	{
+		"location":	"Porto Alegre, RS",
+		"latitude":	-29.982426,
+		"longitude":	-51.188812,
+		"elevation":	15,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	100
+}
+{
+	"meta":	{
+		"location":	"Porto Alegre, RS",
+		"latitude":	-29.982426,
+		"longitude":	-51.188812,
+		"elevation":	15,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	63
+}
+{
+	"meta":	{
+		"location":	"Ijuí, RS",
+		"latitude":	-28.365555,
+		"longitude":	-53.93872,
+		"elevation":	325,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"temperature_2m",
+	"measurement":	20.4
+}
+{
+	"meta":	{
+		"location":	"Ijuí, RS",
+		"latitude":	-28.365555,
+		"longitude":	-53.93872,
+		"elevation":	325,
+		"timezone":	"GMT"
+	},
+	"unit":	"°C",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Temperature",
+	"measurement_type":	"apparent_temperature",
+	"measurement":	22.8
+}
+{
+	"meta":	{
+		"location":	"Ijuí, RS",
+		"latitude":	-28.365555,
+		"longitude":	-53.93872,
+		"elevation":	325,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Humidity",
+	"measurement_type":	"relative_humidity_2m",
+	"measurement":	98
+}
+{
+	"meta":	{
+		"location":	"Ijuí, RS",
+		"latitude":	-28.365555,
+		"longitude":	-53.93872,
+		"elevation":	325,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"precipitation",
+	"measurement":	0.2
+}
+{
+	"meta":	{
+		"location":	"Ijuí, RS",
+		"latitude":	-28.365555,
+		"longitude":	-53.93872,
+		"elevation":	325,
+		"timezone":	"GMT"
+	},
+	"unit":	"mm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"rain",
+	"measurement":	0.2
+}
+{
+	"meta":	{
+		"location":	"Ijuí, RS",
+		"latitude":	-28.365555,
+		"longitude":	-53.93872,
+		"elevation":	325,
+		"timezone":	"GMT"
+	},
+	"unit":	"cm",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Precipitation",
+	"measurement_type":	"snowfall",
+	"measurement":	0
+}
+{
+	"meta":	{
+		"location":	"Ijuí, RS",
+		"latitude":	-28.365555,
+		"longitude":	-53.93872,
+		"elevation":	325,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windspeed_10m",
+	"measurement":	10.4
+}
+{
+	"meta":	{
+		"location":	"Ijuí, RS",
+		"latitude":	-28.365555,
+		"longitude":	-53.93872,
+		"elevation":	325,
+		"timezone":	"GMT"
+	},
+	"unit":	"km/h",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Wind",
+	"measurement_type":	"windgusts_10m",
+	"measurement":	28.1
+}
+{
+	"meta":	{
+		"location":	"Ijuí, RS",
+		"latitude":	-28.365555,
+		"longitude":	-53.93872,
+		"elevation":	325,
+		"timezone":	"GMT"
+	},
+	"unit":	"%",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Cloud Cover",
+	"measurement_type":	"cloudcover",
+	"measurement":	69
+}
+{
+	"meta":	{
+		"location":	"Ijuí, RS",
+		"latitude":	-28.365555,
+		"longitude":	-53.93872,
+		"elevation":	325,
+		"timezone":	"GMT"
+	},
+	"unit":	"wmo code",
+	"time":	"2026-05-01T23:00",
+	"group_type":	"Weather Status",
+	"measurement_type":	"weathercode",
+	"measurement":	51
+}

@@ -1,0 +1,86 @@
+//////////////////////////////////////////////////////////////////////////////////////////// backend
+
+[backend] Reading from stdin...
+[backend] Read 31488979 bytes from gateway.
+
+=================================================================
+  cJSON BACKEND — PARSE BENCHMARK REPORT
+=================================================================
+  Payloads received : 1
+  Payloads parsed OK: 1
+  Payloads failed   : 0
+-----------------------------------------------------------------
+  TIMING (parse only, µs)
+    Total            : 192021504.65 µs  (192021.5046 ms)
+    Mean per payload : 192021504.6470 µs
+    Min              : 192021504.6470 µs
+    Max              : 192021504.6470 µs
+-----------------------------------------------------------------
+  MEMORY OPERATIONS (inside cJSON_Parse only)
+    malloc  calls total    : 3300001
+    realloc calls total    : 0
+    calloc  calls total    : 1
+    free    calls total    : 3300001
+    Heap bytes requested   : 120689040
+    malloc  calls / payload: 3300001.00
+    free    calls / payload: 3300001.00
+    bytes / payload        : 120689040.00
+-----------------------------------------------------------------
+=================================================================
+
+//////////////////////////////////////////////////////////////////////////////////////////// backend_purecap
+
+=================================================================
+  cJSON BACKEND — PARSE BENCHMARK REPORT
+=================================================================
+  Payloads received : 1
+  Payloads parsed OK: 1
+  Payloads failed   : 0
+-----------------------------------------------------------------
+  TIMING (parse only, µs)
+    Total            : 306918932.81 µs  (306918.9328 ms)
+    Mean per payload : 306918932.8080 µs
+    Min              : 306918932.8080 µs
+    Max              : 306918932.8080 µs
+-----------------------------------------------------------------
+  MEMORY OPERATIONS (inside cJSON_Parse only)
+    malloc  calls total    : 3300001
+    realloc calls total    : 0
+    calloc  calls total    : 1
+    free    calls total    : 3300001
+    Heap bytes requested   : 178289088
+    malloc  calls / payload: 3300001.00
+    free    calls / payload: 3300001.00
+    bytes / payload        : 178289088.00
+-----------------------------------------------------------------
+=================================================================
+
+//////////////////////////////////////////////////////////////////////////////////////////// backend_purecap_shared
+
+[backend] Reading from stdin...
+[backend] Read 31488979 bytes from gateway.
+
+=================================================================
+  cJSON BACKEND — PARSE BENCHMARK REPORT
+=================================================================
+  Payloads received : 1
+  Payloads parsed OK: 1
+  Payloads failed   : 0
+-----------------------------------------------------------------
+  TIMING (parse only, µs)
+    Total            : 309053398.46 µs  (309053.3985 ms)
+    Mean per payload : 309053398.4600 µs
+    Min              : 309053398.4600 µs
+    Max              : 309053398.4600 µs
+-----------------------------------------------------------------
+  MEMORY OPERATIONS (inside cJSON_Parse only)
+    malloc  calls total    : 0
+    realloc calls total    : 0
+    calloc  calls total    : 1
+    free    calls total    : 0
+    Heap bytes requested   : 23200000
+    malloc  calls / payload: 0.00
+    free    calls / payload: 0.00
+    bytes / payload        : 23200000.00
+-----------------------------------------------------------------
+================================================================
